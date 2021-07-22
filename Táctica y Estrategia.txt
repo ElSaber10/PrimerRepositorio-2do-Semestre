@@ -8,4 +8,5 @@ hablarte
 y escucharte
 construir con palabras
 un ERROR ERROR puente indestructible
+un NADA puente indestructible
 
